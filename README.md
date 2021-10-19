@@ -26,11 +26,11 @@
 <br/>
 
 
-- 🔭 I’m currently pursuing BTech CSE in [VIT University] (https://vit.ac.in/).
-- 🌱 I’m currently learning more about everything #hustle-hard.
-- 👯 I’m looking to collaborate in Startups.
+- 🔭 I’m currently pursuing BTech CSE in VIT University 
+- 🌱 I’m currently learning more about everything #hustle-hard
+- 👯 I’m looking to collaborate in Startups
 - 💬 Mail me (syedowais.xyz@gmail.com)
-- 📫 How to reach me: [Instagarm - @syed_0wais ](https://instagram.com/syed_0wais) ,
+- 📫 How to reach me: [Instagarm - @syed_0wais ](https://instagram.com/syed_0wais) 
 - ⚡ Fun fact: I am a hardcore gamer 👾
 
 
