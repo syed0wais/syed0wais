@@ -25,14 +25,12 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- 🔭 I’m currently pursuing BTech CSE in [VIT University] (https://vit.ac.in/).
+- 🌱 I’m currently learning more about everything #hustle-hard.
+- 👯 I’m looking to collaborate in Startups.
+- 💬 Feel free to question me 
+- 📫 How to reach me: [Instagarm - @syed_0wais ](https://instagram.com/syed_0wais) ,
+- ⚡ Fun fact: I am a hardcore gamer 👾
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
