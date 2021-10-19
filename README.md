@@ -26,8 +26,8 @@
 <br/>
 
 
-- 🔭 I’m currently pursuing BTech CSE in VIT University,
-- 🌱 I’m currently learning more about everything #hustle-hard ,
+- 🔭 Currently pursuing BTech CSE in VIT University,
+- 🌱 Learning about everything #hustle-hard ,
 - 👯 Interested in Startups,
 - 💬 Mail me (syedowais.xyz@gmail.com)
 - 📫 How to reach me: [Instagram - @syed_0wais] (https://instagram.com/syed_0wais) 
