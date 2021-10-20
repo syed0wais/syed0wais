@@ -27,7 +27,7 @@
 
 
 - 🔭 Currently pursuing BTech CSE in VIT University,
-- 🌱 Learning about everything #hustle-hard ,
+- 🌱 Learning about everything #hustle-hard,
 - 👯 Interested in Startups,
 - 💬 Mail me (syedowais.xyz@gmail.com)
 - 📫 Reach me [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-)
