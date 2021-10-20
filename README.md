@@ -26,7 +26,7 @@
 <br/>
 
 
-- 🔭 Currently pursuing BTech CSE in VIT University,
+- 🔭 Currently pursuing BTech CSE in [VIT University](https://vit.ac.in/),
 - 🌱 Learning about everything #hustle-hard,
 - 👯 Interested in Startups,
 - 💬 Mail me (syedowais.xyz@gmail.com)
