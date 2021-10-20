@@ -30,7 +30,7 @@
 - 🌱 Learning about everything #hustle-hard ,
 - 👯 Interested in Startups,
 - 💬 Mail me (syedowais.xyz@gmail.com)
-- 📫 Reach me [Instagram - @syed_0wais](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-)
+- 📫 Reach me [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-)
 - ⚡ Hardcore gamer 👾
 
 
