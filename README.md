@@ -1,4 +1,4 @@
-## Hola, I'm Syed Owais [LayzeePreneur!] 👋
+## Hola, I'm Owais [LayzeePreneur!] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LayzeePreneur&label=Views&color=blue&style=plastic" alt="LayzeePreneur" /> </p>
 
