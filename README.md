@@ -27,7 +27,7 @@
 
 
 - 🔭 Currently pursuing BTech CSE in [VIT University](https://vit.ac.in/),
-- 🌱 Learning about everything #hustle-hard,
+- 🌱 Learning,
 - 👀 Interested in Tech,Entrepreneurship
 - ✨ I’m looking to collaborate on some innovative open source projects.
 - 💬 Mail me (syedowais.xyz@gmail.com)
