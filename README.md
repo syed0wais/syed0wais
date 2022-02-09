@@ -31,8 +31,8 @@
 - 👀 Interested in Tech, Entrepreneurship
 - ✨ I’m looking to collaborate on some innovative open source projects.
 - 💬 Mail me (syedowais.xyz@gmail.com)
-- 📫 Reach me [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-58746b221/)
-- ⚡ Hardcore gamer 👾
+- 📫 Reach me on [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-58746b221/)
+- ⚡ Gamer 👾
 
 
 ---
