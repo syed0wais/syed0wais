@@ -6,7 +6,7 @@
 <a href="https://twitter.com/">
   <img align="left" alt="Owais's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://linkedin.com/in/syed-0wais">
   <img align="left" alt="Owais's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/LayzeePreneur">
@@ -27,8 +27,8 @@
 
 
 - 🔭 Currently pursuing BTech CSE in [VIT University](https://vit.ac.in/),
-- 🌱 Learning,
-- 👀 Interested in Tech,Entrepreneurship
+- 🌱 Learning, Hustling
+- 👀 Interested in Tech, Entrepreneurship
 - ✨ I’m looking to collaborate on some innovative open source projects.
 - 💬 Mail me (syedowais.xyz@gmail.com)
 - 📫 Reach me [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-58746b221/)
