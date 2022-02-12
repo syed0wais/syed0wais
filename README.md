@@ -12,7 +12,7 @@
 <a href="https://github.com/LayzeePreneur">
   <img align="left" alt="Owais's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/TERMIN4T0R">
+<a href="https://t.me/t3rmln4t0r">
   <img align="left" alt="Owais's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/syed_0wais/">
