@@ -32,7 +32,7 @@
 - ✨ I’m looking to collaborate on some innovative open source projects.
 - 💬 Mail me (syedowais.xyz@gmail.com)
 - 📫 Reach me on [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-58746b221/)
-- ⚡ I hate Mocha(JS), 👾
+- ⚡ Caffeine Addict 👾
 
 
 ---
