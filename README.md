@@ -1,4 +1,4 @@
-## Hola, I'm <a href="https://linkedin.com/in/syed-0wais">Owais</a> [LayzeePreneur!] 👋
+## Hola, I'm <a href="https://bit.ly/0wais">Owais</a> [LayzeePreneur!] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LayzeePreneur&label=Views&color=blue&style=plastic" alt="LayzeePreneur" /> </p>
 
