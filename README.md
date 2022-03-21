@@ -26,7 +26,7 @@
 <br/>
 
 
-- 🔭 Currently pursuing BTech CSE from [VIT University](https://vit.ac.in/),
+- 🔭 Currently pursuing BTech [CSE] from [VIT University](https://vit.ac.in/),
 - 🌱 Learning, Hustling
 - 👀 Interested in Tech, Entrepreneurship
 - ✨ I’m looking to collaborate on some innovative open source projects.
