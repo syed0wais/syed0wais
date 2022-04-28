@@ -28,7 +28,7 @@
 
 - 🔭 Currently pursuing BTech [CSE] from [VIT University](https://vit.ac.in/),
 - 🌱 Learning, Hustling
-- 👀 Interested in Tech, Entrepreneurship
+- 👀 Interested in Tech, Entrepreneurship & in You ;)
 - ✨ I’m looking to collaborate on some innovative open source projects.
 - 💬 Mail me (syedowais.xyz@gmail.com)
 - 📫 Reach me on [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-58746b221/)
