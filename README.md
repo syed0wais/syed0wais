@@ -19,7 +19,7 @@
   <img align="left" alt="Owais's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC7WjQnR3zHp5V52h3UmYQXg/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Owais's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@
 - 👀 Interested in Tech, Entrepreneurship & in You ;)
 - ✨ I’m looking to collaborate on some innovative open source projects.
 - 💬 Mail me (syedowais.xyz@gmail.com)
-- 📫 Reach me on [Instagram](https://instagram.com/syed_0wais) & [LinkedIn](https://www.linkedin.com/in/syed-owais-58746b221/)
+- 📫 Reach me on [Instagram](https://instagram.com/syed_0wais),[Twitter](https://twitter.com/LayzeePreneur), [LinkedIn](https://www.linkedin.com/in/syed-owais-58746b221/)
 - ⚡ Caffeine Addict 👾
 
 
