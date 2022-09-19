@@ -1,7 +1,7 @@
 ## Hola, I'm <a href="https://bit.ly/0wais">Owais</a> [LayzeePreneur!] 👋
 
 # 💫 About Me:
-🎓 Currently pursuing BTech (CSE) from VIT University,<br>🌱 Learning, Hustling<br>👀 Interested in Tech, Entrepreneurship & in You ;)<br>✨ I’m looking to collaborate on some innovative open-source projects.<br>💬 Mail me (syedowais.xyz@gmail.com)<br>📫 Reach me on Instagram, Twitter, LinkedIn<br>⚡ Caffeine Addict 👾
+🎓 Currently pursuing BTech (CSE) from VIT University,<br>🌱 Learning, Hustling<br>👀 Interested in Tech, Entrepreneurship, & in You ;)<br>✨ I’m looking to collaborate on some innovative open-source projects.<br>💬 Mail me (syedowais.xyz@gmail.com)<br>📫 Reach me on Instagram, Twitter, LinkedIn<br>⚡ Caffeine Addict 👾
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LayzeePreneur&label=Views&color=blue&style=plastic" alt="LayzeePreneur" /> </p>
