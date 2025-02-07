@@ -45,12 +45,11 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
-<img src="https://raw.githubusercontent.com/syed0wais/syed0wais/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="left"></p>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syed0wais/syed0wais/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syed0wais/syed0wais/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/syed0wais/syed0wais/output/github-snake.svg" />
+</picture>
